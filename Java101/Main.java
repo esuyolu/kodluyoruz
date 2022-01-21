@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-        int mat, fzk, kmy, tkc, trh, mzk;
+        int mat, fzk, kmy, tkc, trh, mzk; 
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Matematik Notunuz: ");
